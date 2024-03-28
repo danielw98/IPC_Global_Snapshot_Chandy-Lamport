@@ -44,7 +44,7 @@ The system will fork processes, simulate message passing, and take snapshots upo
 
 ## Dive Into the Code
 
-The IPC Global Snapshot project implements the Chandy-Lamport algorithm for taking global snapshots of a distributed system. It's designed to work under UNIX, simulating a distributed system using processes that communicate through pipes in a non-blocking fashion.
+The IPC Global Snapshot project implements the Chandy-Lamport algorithm for taking global snapshots of a distributed system. It's designed to work under UNIX, simulating a distributed system using processes that communicate through pipes in a non-blocking fashion. The core files are under `src/` and headers under `includes/`.
 
 ### Core Files
 - **main.cpp**: Initializes the processes and listens for user input to initiate snapshots or quit the program.
