@@ -4,7 +4,7 @@ This project simulates a distributed system using UNIX processes that communicat
 
 ## Demo Output
 
-![Chandy-Lamport Output](hhttps://github.com/danielw98/IPC_Global_Snapshot_Chandy-Lamport/blob/main/GlobalSnapshot.png?raw=true)
+![Chandy-Lamport Output](https://github.com/danielw98/IPC_Global_Snapshot_Chandy-Lamport/blob/main/GlobalSnapshot.png?raw=true)
 
 
 ## Features
